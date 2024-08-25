@@ -4,7 +4,7 @@ import AppButton from './AppButton';
 
 const NoteSection = () => {
   return (
-    <div className="flex flex-col lg:flex-row items-center justify-center min-h-screen bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 px-8 py-12">
+    <div className="flex flex-col lg:flex-row items-center justify-center min-h-screen bg-gradient-to-r from-indigo-950	 via-indigo-900 to-indigo-800 px-8 py-12">
       <div className="lg:w-4/5 xl:w-4/5 bg-white bg-opacity-95 border border-gray-200 rounded-3xl shadow-2xl p-10 flex flex-col lg:flex-row space-y-8 lg:space-y-0">
         {/* Left Side */}
         <div className="lg:w-3/5 xl:w-1/2 text-center lg:text-left mb-8 lg:mb-0 p-8 bg-white rounded-2xl shadow-lg lg:shadow-xl lg:mr-8 transition-transform transform hover:-translate-y-1">
