@@ -49,6 +49,7 @@ function Header() {
                             <li><Link to="/" className="text-black">Home</Link></li>
                             <li><Link to="/about" className="text-black">About</Link></li>
                             <li><Link to="/privacypolicy" className="text-black">Privacy Policy</Link></li>
+                            <li><Link to="/contact" className="text-black">Contact</Link></li>
                         </ul>
               
                     </div>
@@ -61,6 +62,7 @@ function Header() {
                             <Link to="/" onClick={toggleMenu} className="block py-2 text-black">Home</Link>
                             <Link to="/about" onClick={toggleMenu} className="block py-2 text-black">About</Link>
                             <Link to="/privacypolicy" onClick={toggleMenu} className="block py-2 text-black">Privacy Policy</Link>
+                            <Link to="/contact" onClick={toggleMenu} className="block py-2 text-black">Contact</Link>
            
                         </div>
                     </div>

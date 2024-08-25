@@ -56,9 +56,26 @@ export default function PrivacyPolicy() {
         </p>
         <ul className="list-disc list-inside pl-4 mb-4">
           <li>The right to access – You have the right to request copies of your personal data.</li>
-          <li>The right to rectification – You have the right to request that we correct any information you believe is inaccurate or complete information you believe is incomplete.</li>
+          <li>The right to rectification – You have the right to request that we correct any information you believe is inaccurate or complete any information you believe is incomplete.</li>
           <li>The right to remove account – You have the right to request account removal.</li>
         </ul>
+
+        <h2 className="text-2xl font-semibold mt-8 mb-4">6. Account Deletion</h2>
+        <p className="mb-4">
+          If you would like to delete your account and any associated data, please send an email to our Developer Head: 
+          <a href="mailto:theashhar.work@gmail.com" className="text-blue-500 underline"> theashhar.work@gmail.com</a>.
+        </p>
+        <p className="mb-4">
+          In your email, please include the following details:
+        </p>
+        <ul className="list-disc list-inside pl-4 mb-4">
+          <li>Your full name</li>
+          <li>The email address associated with your account</li>
+          <li>A brief description of your request (e.g., "Request to delete account and associated data")</li>
+        </ul>
+        <p className="mb-4">
+          Our support team will process your request and confirm the deletion of your account and data within 7 business days.
+        </p>
 
         <p className="mt-10 text-sm text-gray-600">
           Last updated: 7th July 2024
