@@ -5,7 +5,7 @@ import Navbar from './Navbar';
 export default function Home() {
   return (
     <div className="App">
-      <Navbar />
+      {/* <Navbar /> */}
       <NoteSection />
     </div>
   )
