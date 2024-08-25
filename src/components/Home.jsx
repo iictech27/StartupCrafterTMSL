@@ -1,6 +1,6 @@
 import React from 'react'
 import NoteSection from './NoteSection';
-import Navbar from './Navbar';
+// import Navbar from './Navbar';
 
 export default function Home() {
   return (
