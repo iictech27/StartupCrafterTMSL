@@ -1,10 +1,10 @@
 import React from 'react';
-import Navbar from './Navbar';
+import Header from './Header';
 
 export default function About() {
   return (
     <>
-      <Navbar />
+      <Header />
       <div className="max-w-4xl mx-auto p-6 md:p-10">
         <h1 className="text-3xl font-bold mb-6">About Startup Crafter</h1>
         

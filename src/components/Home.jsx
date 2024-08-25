@@ -1,11 +1,11 @@
 import React from 'react'
 import NoteSection from './NoteSection';
-import Navbar from './Navbar';
+import Header from './Header';
 
 export default function Home() {
   return (
     <div className="App">
-      <Navbar />
+      <Header />
       <NoteSection />
     </div>
   )
