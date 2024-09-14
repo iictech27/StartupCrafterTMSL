@@ -8,7 +8,7 @@ export default function PrivacyPolicy() {
       <div className="max-w-4xl mx-auto p-6 md:p-10">
         <h1 className="text-3xl font-bold mb-6">Privacy Policy</h1>
 
-        <p className="text-sm text-gray-600 mb-4">Last updated: 7th July 2024</p>
+        <p className="text-sm text-gray-600 mb-4">Last updated: 12th September 2024</p>
 
         <p className="mb-4">
           Welcome to Startup Crafter! We respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App"). Please read this policy carefully. If you do not agree with the terms of this privacy policy, please do not access the App.
@@ -23,6 +23,7 @@ export default function PrivacyPolicy() {
           <ul className="list-disc list-inside pl-4">
             <li>Name</li>
             <li>Email address</li>
+            <li>Profile photo uploaded by users for Talent Profile listing</li>
           </ul>
           <li className="mt-4"><strong>Non-Personal Information:</strong></li>
           <ul className="list-disc list-inside pl-4">
@@ -78,7 +79,7 @@ export default function PrivacyPolicy() {
         </p>
 
         <p className="mt-10 text-sm text-gray-600">
-          Last updated: 7th July 2024
+          Last updated: 12th September 2024
         </p>
       </div>
     </>
