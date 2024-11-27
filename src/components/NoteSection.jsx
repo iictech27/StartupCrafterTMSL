@@ -13,17 +13,17 @@ const NoteSection = () => {
             {/* <span className="text-indigo-600">Security</span> */}
           </h1>
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Automatically syncs across all your devices. You can also access and write notes without internet connection.
+          Welcome to Startup Crafter - Your go-to platform for all things startup-related! Whether you are looking to hire top talent, connect with the community, submit your groundbreaking startup ideas, or stay updated on upcoming events, Startup Crafter has you covered.
           </p>
           <p className="text-gray-700 mb-6 leading-relaxed font-semibold">
-            Create And Save Your Notes With Multi-media
-          </p>
-          <p className="text-gray-700 mb-6 leading-relaxed">
-            Images, videos, PDFs, and audio files are supported. Create math expressions and diagrams directly on the app. Take photos with the camera to save and access them instantly.
+          Empowering Ideas, Building Futures
           </p>
           <ul className="text-gray-700 mb-8 leading-relaxed space-y-2">
-            <li>✓ Web Clipper Extension</li>
-            <li>✓ Protect Your Notes With Lock</li>
+            <li>✓ Hire Talent</li>
+            <li>✓ Create Team</li>
+            <li>✓ Idea Submission</li>
+            <li>✓ Event Calendar</li>
+            <li>✓ Community</li>
           </ul>
           <AppButton />
         </div>
