@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import mobileImage from '../assets/images/mobile2.png';
 import AppButton from './AppButton';
 

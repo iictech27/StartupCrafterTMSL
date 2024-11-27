@@ -1,11 +1,11 @@
-import React from 'react';
+// import React from 'react';
 import { FaGooglePlay } from 'react-icons/fa'; // Importing Google Play icon from react-icons
 
 const AppButton = () => {
     return (
         <>
             <a
-                href="https://www.google.com"
+                href="https://play.google.com/store/apps/details?id=com.theashhar2.STARTUP_CRAFTER"
                 target="_blank"
                 rel="noopener noreferrer">
 
